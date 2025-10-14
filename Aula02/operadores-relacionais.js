@@ -41,4 +41,4 @@ finds = dinheiros >= 600 || sol == true ? `Vou pra PRAIA!` : `Não vou pra PRAIA
 console.log(finds);
 console.log(`Tem sol hoje? ${!sol}`);
 
-
+ 

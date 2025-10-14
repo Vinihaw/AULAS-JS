@@ -8,4 +8,4 @@ var nome1 = `Vinicius`; // Escopo Global | Não usar.
 let idade = 23; // Escopo de Bloco {}.
 const vivo = true; // Não pode ser redeclarado e não pode alterar o seu valor.
 
-console.log(`Olá, Mundo`);let nome2 = `Gelado`;
+console.log(`Olá, Mundo`);let nome2 = `Gelado`; 

@@ -9,3 +9,4 @@ console.log(`A média do Aluno é ${media}`);
 let status = true
 let curso = media >= 7 && status == true ? `foi aprovado!` : `não foi aprovado!`
 console.log(`O Aluno ${nome} ${curso}`);
+ 

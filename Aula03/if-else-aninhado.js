@@ -13,4 +13,4 @@ if (media >= 7) {
     console.log(`Média: ${media} \nAluno deve entregar atividade para compor nota.` );
 } else {
     console.log(`Reprovado com a média ${media}`);
-}
+} 

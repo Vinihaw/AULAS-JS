@@ -14,3 +14,4 @@ if (media >= 7 && faltas <= 5) {
 }
 
 console.log(`Final do programa.`);
+ 

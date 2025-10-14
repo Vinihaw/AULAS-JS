@@ -11,3 +11,4 @@ if (falta >= 6) {
 }
 
 console.log(`Final do programa.`);
+ 
