@@ -9,4 +9,4 @@ if (media >= 7 && faltas < 6) {
     alert(`Aprovado! \nMédia: ${media} \nFaltas: ${faltas}`);
 } else {
     alert(`Reprovado! \nMédia: ${media} \nFaltas: ${faltas}`);
-}
+} 
