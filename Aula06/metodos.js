@@ -12,3 +12,7 @@ console.log(nome.substring(1, 3));
 let nova_palavra = nome.split(` `)
 console.log(nova_palavra[3]);
 
+let novo_nome = nome.replace(`Souza`, `Silva`)
+console.log(nome);
+console.log(novo_nome);
+
